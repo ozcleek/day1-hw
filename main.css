@@ -1,0 +1,45 @@
+
+body {
+ background: black;
+}
+
+
+h1 {
+ color: white;
+ text-align: center;
+ font-family: 'Cardo', serif;
+}
+
+p {
+ color: white;
+ text-align: center;
+ font-family: 'Cardo', serif;
+ padding: 1px;
+
+}
+
+img {
+
+	padding: 1px;
+	border: 5px solid gray;
+	height: 600px;
+	width: 850px;
+	display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	font-family: 'Cardo', serif;
+}
+
+ul {
+	text-align: center;
+	color: white;
+	font-family: 'Cardo', serif;
+	list-style-type: none;
+}
+
+
